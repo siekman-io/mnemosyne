@@ -49,7 +49,11 @@
 
 [![Product Name Screen Shot][product-screenshot]]({{my_url}}/github/{{playbook_name}}/scr_{{playbook_name}}.jpg)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Mnemosyne A nod to the Greek goddess of memory, fitting for a software that helps you store and recall information.
+
+With all the devices , even the devices that not sync with another you want to have your simple quick notes, bookmarks and cheatsheets together. All on the web with a little security. Atleast i do , so i have created together with my friend ChatGPT this helpfull page. 
+
+Everything is stored in the database 
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -62,55 +66,6 @@ Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-### Built With
-
-This playbook is created for ansible. The language for Ansible is YAML. 
-
-* [![yaml][yaml-logo]][yaml-url]
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This playbook is created for Ansible version core 2.15.0 
-This is an example of how to list things you need to use the software and how to install them.
-* Check in your terminal
-  ```sh
-  ansible --version
-  ```
-
-### Installation
-
-_You can clone this project with the following command._
-
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/{{github_user}}/ansible.git
-   ```
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-To use a playbook from my collection go to the directory you cloned the repo and then go to the directory of the playbook you want to run. 
-Change the variables to your needs in /vars/main.yml. Change the host you want to run it against in /playbook_name/inventory or delete the file if
-u use a centralized inventory file. 
 
 
 
