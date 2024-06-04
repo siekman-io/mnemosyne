@@ -31,14 +31,6 @@
   <p align="center">
     Mnemosyne your memory Software 
     <br />
-    <a href="https://github.com/{{github_user}}/{{playbook_name}}"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/{{github_user}}/{{playbook_name}}">View Demo</a>
-    ·
-    <a href="https://github.com/{{github_user}}/{{playbook_name}}/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/{{github_user}}/{{playbook_name}}/issues">Request Feature</a>
   </p>
 </div>
 
@@ -64,24 +56,13 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 <!-- CONTACT -->
 ## Contact
 
-Jouke Siekman - [@JoukeSiekman]({{my_twitter}}) - {{my_email}}
+Jouke Siekman 
 
-Project Link: [https://github.com/{{github_user}}/ansible](https://github.com/{{github_user}}/ansible)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
