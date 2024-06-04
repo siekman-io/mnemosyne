@@ -39,7 +39,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]({{my_url}}/github/{{playbook_name}}/scr_{{playbook_name}}.jpg)
 
 Mnemosyne A nod to the Greek goddess of memory, fitting for a software that helps you store and recall information.
 
@@ -47,14 +46,17 @@ With all the devices , even the devices that not sync with another you want to h
 
 Everything is stored in the database 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Functions:
+* Create bookmark categories in the database.
+* Add bookmark links to categories in the database.
+* Show blocks with your categories and links from the database
+* Add simple notes in the database with timestamp
+* Searchbar in header for the searchengines to search directly from your startpage
+* Option to check availabilty of a domainname by TransIP.nl
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed.
 
-Use the `BLANK_README.md` to get started.
+
 
 
 <!-- CONTACT -->
@@ -69,7 +71,7 @@ Jouke Siekman
 <!-- ACKNOWLEDGMENTS -->
 ## Support me
 
-Would you like to support me. Thats really nice you can support me by the following ways:
+Would you like to support me. Thats really nice of and you can support me by the following ways:
 
 ["Buy Me A Coffee"]
 
