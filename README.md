@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/{{github_user}}/{{playbook_name}}">
-    <img src="{{my_url}}/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/siekman-io/mnemosyne/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">{{playbook_name}}</h3>
