@@ -26,10 +26,10 @@
     <img src="https://github.com/siekman-io/mnemosyne/blob/main/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Mnemosyne your memory Software</h3>
+  <h1 align="center">Mnemosyne </h1>
 
   <p align="center">
-    {{playbook_details}} 
+    Mnemosyne your memory Software 
     <br />
     <a href="https://github.com/{{github_user}}/{{playbook_name}}"><strong>Explore the docs »</strong></a>
     <br />
