@@ -74,7 +74,6 @@ Jouke Siekman
 Would you like to support me. Thats really nice of and you can support me by the following ways:
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -112,3 +111,6 @@ Would you like to support me. Thats really nice of and you can support me by the
 [yaml-logo]: https://img.shields.io/badge/yaml-000000?style=for-the-badge&logo=yaml&logoColor=blue
 [yaml-url]: https://yaml.org
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/siekman)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
