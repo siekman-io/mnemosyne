@@ -73,7 +73,6 @@ Jouke Siekman
 
 Would you like to support me. Thats really nice of and you can support me by the following ways:
 
-["Buy Me A Coffee"]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
