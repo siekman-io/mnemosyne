@@ -46,7 +46,7 @@ With all the devices , even the devices that not sync with another you want to h
 
 Everything is stored in the database 
 
-Functions:
+# Functions:
 * Create bookmark categories in the database.
 * Add bookmark links to categories in the database.
 * Show blocks with your categories and links from the database
